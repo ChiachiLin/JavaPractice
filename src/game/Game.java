@@ -1,6 +1,8 @@
 package game;
 import static java.lang.System.out;
 
+
+
 public class Game {
 	public static void main(String[] args) {
 		play(Action.RIGHT);
